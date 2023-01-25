@@ -5,8 +5,8 @@ body {
 .inline-block {
   display: inline-block;
   vertical-align: top;
-  width: 50%;
-  text-align: center;
+  width: 130%;
+  text-align: right;
 }
 
 .logo {
@@ -23,7 +23,8 @@ body {
 
 .heroImg {
   height: 600px;
-  padding: 25px;
+  padding: 60px;
+  align-content: center;
 }
 
 .content {
