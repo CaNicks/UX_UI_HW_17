@@ -2,7 +2,21 @@ body {
     font-family: 'Sofia Sans', sans-serif;
   }
   
- .inline-block {
+.inline-block {
   display: inline-block;
   vertical-align: top;
- }
+  width: 50%;
+  margin-left: auto;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+  
+}
+
+.navigation {
+  width: 73%;
+  padding: 1%;
+}
+
